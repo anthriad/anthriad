@@ -13,7 +13,6 @@ I am a third-year Computer Science student at Cleveland State University, passio
 - Team Leader & Project Manager for **PetPulse Senior Design Project**  
 - An Entrepreneur behind <a href="https://adornednmercy.com"><img src="https://img.shields.io/badge/Adorned%20N%20Mercy-000000?style=flat-square&logo=star&logoColor=white"/></a> & photographer
 
----
 
 ## <img src="https://img.icons8.com/ios-filled/50/000000/combo-chart.png" width="22"/> Interests
 - Machine learning & applied AI  
@@ -22,10 +21,10 @@ I am a third-year Computer Science student at Cleveland State University, passio
 - Full-stack product engineering  
 - Branding, photography, and media design  
 
----
+
 
 ## <img src="https://img.icons8.com/ios-filled/50/000000/laptop.png" width="22"/> Tech Stack
----
+
 
 ### **Languages**
 <p>
